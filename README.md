@@ -110,7 +110,7 @@ Ensure your chosen Integrated Development Environment (IDE) is using the Conda e
    
 3. Select "Change kernel" and choose the Conda environment you've set up.
 
-<br><br>
+<br>
 
 > **Note: For other IDEs not listed above, please refer to the respective IDE's documentation on how to set a Python interpreter.**
 
